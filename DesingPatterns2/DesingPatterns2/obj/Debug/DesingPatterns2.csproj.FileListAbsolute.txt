@@ -1,0 +1,14 @@
+C:\Benner\Stag004\T02\DesingPatterns2\DesingPatterns2\obj\Debug\DesingPatterns2.csprojAssemblyReference.cache
+C:\Benner\Stag004\T02\DesingPatterns2\DesingPatterns2\obj\Debug\DesingPatterns2.csproj.CoreCompileInputs.cache
+C:\Benner\Stag004\T02\DesingPatterns2\DesingPatterns2\bin\Debug\DesingPatterns2.exe.config
+C:\Benner\Stag004\T02\DesingPatterns2\DesingPatterns2\bin\Debug\DesingPatterns2.exe
+C:\Benner\Stag004\T02\DesingPatterns2\DesingPatterns2\bin\Debug\DesingPatterns2.pdb
+C:\Benner\Stag004\T02\DesingPatterns2\DesingPatterns2\obj\Debug\DesingPatterns2.exe
+C:\Benner\Stag004\T02\DesingPatterns2\DesingPatterns2\obj\Debug\DesingPatterns2.pdb
+C:\Users\rober\Arquivos de Usuarios\Documents\Benner\T02\DesignPatters\DesingPatterns2\DesingPatterns2\bin\Debug\DesingPatterns2.exe.config
+C:\Users\rober\Arquivos de Usuarios\Documents\Benner\T02\DesignPatters\DesingPatterns2\DesingPatterns2\bin\Debug\DesingPatterns2.exe
+C:\Users\rober\Arquivos de Usuarios\Documents\Benner\T02\DesignPatters\DesingPatterns2\DesingPatterns2\bin\Debug\DesingPatterns2.pdb
+C:\Users\rober\Arquivos de Usuarios\Documents\Benner\T02\DesignPatters\DesingPatterns2\DesingPatterns2\obj\Debug\DesingPatterns2.csprojAssemblyReference.cache
+C:\Users\rober\Arquivos de Usuarios\Documents\Benner\T02\DesignPatters\DesingPatterns2\DesingPatterns2\obj\Debug\DesingPatterns2.csproj.CoreCompileInputs.cache
+C:\Users\rober\Arquivos de Usuarios\Documents\Benner\T02\DesignPatters\DesingPatterns2\DesingPatterns2\obj\Debug\DesingPatterns2.exe
+C:\Users\rober\Arquivos de Usuarios\Documents\Benner\T02\DesignPatters\DesingPatterns2\DesingPatterns2\obj\Debug\DesingPatterns2.pdb
